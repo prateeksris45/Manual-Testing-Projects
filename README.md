@@ -1,7 +1,7 @@
-Gmail Login Page - Test Cases and RTM(Requirement Traceability Matrix)
-This repository contains Test Cases and a Requirements Traceability Matrix (RTM) for the Gmail Login Page. These documents help ensure all requirements are tested and covered.
+## Author - Prateek Shrivastav
 
-What's Inside
-RTM and Test Cases of Gmail.xlsx:
-Test cases for different scenarios (positive, negative, and edge cases).
-RTM linking requirements to their test cases.
+# Manual Testing Projects
+| Project Name | Description |
+| -------------- | ------------- |
+| Gmail Login  | Test cases for different scenarios (positive, negative, and edge cases). RTM linking requirements to their test cases. These documents help ensure all requirements are tested and covered.  |
+| Verizon Wireless  | Test cases for different scenarios (positive, negative, and edge cases). RTM linking requirements to their test cases. These documents help ensure all requirements are tested and covered.  |
